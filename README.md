@@ -44,3 +44,37 @@ LangChain is a framework designed to build applications powered by large languag
 * Designed to be flexible and modular, so you can build small prototypes or production-scale systems.
 
 ---
+
+## LangSmith
+
+**LangSmith** is a platform built by the LangChain team to help you **debug, test, and monitor** applications powered by LLMs.
+
+### What it does:
+
+* **Tracing:** Tracks each step your application takes (inputs, outputs, intermediate calls).
+* **Evaluation:** Lets you run experiments and measure performance of your chains and agents.
+* **Collaboration:** Share traces and results with your team for debugging.
+* **Monitoring:** Keep an eye on your application when it’s running in production.
+
+---
+
+## LangServe
+
+**LangServe** is a toolkit to help you **deploy LangChain applications as APIs**.
+
+### What it does:
+
+* Wraps your chain or agent in a **REST API** automatically.
+* Lets you serve your model endpoints so other services or applications can use them.
+* Built on **FastAPI**, so it’s fast and production-ready.
+* Includes features like streaming responses and standardized endpoints.
+
+---
+
+## How They Fit Together
+
+* **LangChain**: Framework to build LLM applications (chains, agents, memory).
+* **LangSmith**: Debugging, testing, monitoring platform for LangChain apps.
+* **LangServe**: Deployment toolkit to turn your LangChain app into an API.
+
+---
