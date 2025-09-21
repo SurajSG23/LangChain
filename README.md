@@ -45,7 +45,7 @@ LangChain is a framework designed to build applications powered by large languag
 
 ---
 
-## LangSmith
+# LangSmith
 
 **LangSmith** is a platform built by the LangChain team to help you **debug, test, and monitor** applications powered by LLMs.
 
@@ -58,7 +58,7 @@ LangChain is a framework designed to build applications powered by large languag
 
 ---
 
-## LangServe
+# LangServe
 
 **LangServe** is a toolkit to help you **deploy LangChain applications as APIs**.
 
