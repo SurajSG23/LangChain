@@ -1,3 +1,13 @@
+# Repo Content:
+```
+├── Module-1.ipynb    # Set up the OpenAI API and create a sarcastic chatbot.
+├── Module-2.ipynb    # Basics of using LangChain with the Google Gemini API.
+├── Module-3.ipynb    # Use output parsers to structure the output from language models.
+├── Module-4.ipynb    # LangChain Expression Language (LCEL) for building AI pipelines.
+├── Module-5.ipynb    # Retrieval-Augmented Generation (RAG) system.
+
+```
+
 # LangChain
 
 LangChain is a framework designed to build applications powered by large language models (LLMs). It provides tools that make it easier to connect models with external data, memory, and reasoning capabilities.
